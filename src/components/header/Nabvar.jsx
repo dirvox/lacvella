@@ -26,7 +26,7 @@ export default function Navbar() {
           className="text-2xl font-semibold tracking-tight text-neutral-900"
         >
           
-          <img src="/logo.png" className="h-14" alt="logo" />
+          <img src="/logo.webp" className="h-14" alt="logo" />
         </motion.a>
 
         {/* Desktop Nav Links (Floating Pill Style) */}

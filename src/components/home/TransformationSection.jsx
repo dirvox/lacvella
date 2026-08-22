@@ -10,24 +10,24 @@ const TRANSFORMATIONS = [
     id: 1,
     title: "3D Floral Acrylic Sculpting",
     subtitle: "From bare natural nails to intricate bridal masterpiece",
-    beforeImage: "/hero-girl.png", // Replace with your 'Before' image path
-    afterImage: "/hero-girl.png",  // Replace with your 'After' image path
+    beforeImage: "/hero-girl.webp", // Replace with your 'Before' image path
+    afterImage: "/hero-girl.webp",  // Replace with your 'After' image path
     tag: "Bridal Special",
   },
   {
     id: 2,
     title: "Golden Chrome French Glaze",
     subtitle: "Short weak nails upgraded to luxurious glossy length",
-    beforeImage: "/hero-girl.png",
-    afterImage: "/hero-girl.png",
+    beforeImage: "/hero-girl.webp",
+    afterImage: "/hero-girl.webp",
     tag: "Editorial Trend",
   },
   {
     id: 3,
     title: "Velvet Cat-Eye Manicure",
     subtitle: "Plain nails transformed with deep magnetic shimmer",
-    beforeImage: "/hero-girl.png",
-    afterImage: "/hero-girl.png",
+    beforeImage: "/hero-girl.webp",
+    afterImage: "/hero-girl.webp",
     tag: "Most Requested",
   },
 ];
