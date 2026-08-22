@@ -67,7 +67,7 @@ export default function Hero() {
           >
             {/* Model Image Source */}
             <img
-              src="/hero-girl.png"
+              src="/hero-girl.webp"
               alt="Luxury Press-On Nails Model"
               className="absolute inset-0 w-full h-full object-cover object-top"
             />
